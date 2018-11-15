@@ -1,2 +1,4 @@
 # android
-Download the zip files and import them into Android Studio. Have fun using the apps
+Android projects
+
+Download the zip file and extract. Import the projects in Android Studio. Have fun using the app
